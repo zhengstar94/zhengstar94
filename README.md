@@ -1,4 +1,4 @@
-## Hello world 👋
+## Hi 👋. Xingxing here. Welcome to my small corner on the Internet.
 
 
 **You are the** ![Visitor Count](https://profile-counter.glitch.me/zhengstar94/count.svg) **vistor**
