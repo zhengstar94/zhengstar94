@@ -1,10 +1,4 @@
-## Hi 👋. Xingxing here. Welcome to my small corner on the Internet.
-
-As a senior cloud backend engineer, I aim to enhance system efficiency and solve complex problems. I’m also focused on refining technical practices and product quality.
-
-I envision this blog as a platform for sparking innovation and creativity through shared knowledge and discussions.
-
-
+## Hi 👋. Xingxing here. 
 
 
 **You are the** ![Visitor Count](https://profile-counter.glitch.me/zhengstar94/count.svg) **vistor**
