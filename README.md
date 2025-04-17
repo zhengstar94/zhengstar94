@@ -1,4 +1,4 @@
-## Hi 👋. Xingxing is here. 
+## Hi 👋. I'm Xingxing. 
 
 
 **You are the** ![Visitor Count](https://profile-counter.glitch.me/zhengstar94/count.svg) **vistor**
