@@ -1,10 +1,8 @@
 ## Hi 👋. I'm Xingxing. 
 
 
-**You are the** ![Visitor Count](https://profile-counter.glitch.me/zhengstar94/count.svg) **vistor**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhengstar94)](https://github.com/zhengstar94/github-readme-stats)
 
 
 
