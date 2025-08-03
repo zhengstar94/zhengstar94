@@ -6,11 +6,12 @@ As a `senior cloud backend engineer`, I aim to enhance system efficiency and sol
 
 I envision this blog as a platform for sparking innovation and creativity through shared knowledge and discussions.
 
+```html
 <center>不论在哪，不要被眼前的假象迷惑</center>
 <center>拿到你想要的，然后离开</center>
 <center>You should know where to go</center>
 <center>星光灿烂，我们终能上山</center>
-
+```
 
 
 <h2></h2>
