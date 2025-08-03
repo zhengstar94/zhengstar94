@@ -7,10 +7,10 @@
 **I envision this blog as a platform for sparking innovation and creativity through shared knowledge and discussions.**
 
 
-<p align="center"> **不论在哪，不要被眼前的假象迷惑**</p>
-<p align="center"> **拿到你想要的，然后离开**</p>
-<p align="center"> **You should know where to go**</p>
-<p align="center"> **星光灿烂，我们终能上山**</p>
+<p align="center"> 不论在哪，不要被眼前的假象迷惑</p>
+<p align="center"> 拿到你想要的，然后离开</p>
+<p align="center"> You should know where to go</p>
+<p align="center"> 星光灿烂，我们终能上山</p>
 
 
 
