@@ -1,4 +1,4 @@
-## Hi. I'm Xingxing. 
+## Hi, I'm Xingxing. 
 
 **Welcome to my small corner on the Internet.**
 
